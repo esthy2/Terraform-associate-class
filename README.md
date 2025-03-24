@@ -1,5 +1,5 @@
 # Terraform-associate-class
-### This repos is create for the terraform Associate Lab at Utrains
+### This repos is create for the terraform Associate Lab at Esthytech
 
 In this repository, we'll be setting up a set of code for projects designed to help you understand terraform concepts. 
 In each folder of this project, you'll find a project that addresses a key terraform concept. The links below refer to some of the code already available.
